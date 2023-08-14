@@ -766,3 +766,6 @@ blockquote {
     top: 0px;
   }
 }
+.image a img {
+  border-radius: 10px;
+}
